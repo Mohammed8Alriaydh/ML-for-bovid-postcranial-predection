@@ -6,8 +6,8 @@ This project focuses on classifying bovidae subfamilies and predicting their hab
 Ensure the following R packages are installed:
 
 install.packages(c("tidyverse", "caret", "randomForest", "e1071", "MASS", "Amelia", "VIM", "pROC", "ggpubr", "FactoMineR", "factoextra", "ggforce", "rstatix", "car", "FSA", "rcompanion", "officer"))
-Data Preparation
 
+**Data Preparation**
 **Datasets**
 bovidae_training_Missing_data.csv: Astragali measurements with missing values.
 bovidae_training_data_random_forest.csv: Habitat labels for training.
